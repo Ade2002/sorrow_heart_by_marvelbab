@@ -43,8 +43,14 @@ body a svg {
 }
 
 body i {
-  color: black;
+  color: white;
   font-weight: 900;
-  font-size: xx-large;
+  font-size: small;
+}
+
+body small {
+  color: white;
+  font-weight: 900;
+  font-size: medium;
 }
 /*# sourceMappingURL=style.css.map */
