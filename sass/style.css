@@ -43,6 +43,8 @@ body a svg {
 }
 
 body i {
-  color: orangered;
+  color: black;
+  font-weight: 900;
+  font-size: xx-large;
 }
 /*# sourceMappingURL=style.css.map */
